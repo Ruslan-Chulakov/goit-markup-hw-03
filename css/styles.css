@@ -503,7 +503,9 @@ button {
     padding-bottom: 20px;
     padding-left: 24px;
     padding-right: 24px;
-    border: 1px solid var(--project-border);
+    border-left: 1px solid var(--project-border);
+    border-right: 1px solid var(--project-border);
+    border-bottom: 1px solid var(--project-border);
 }
 
 .projects-title {
