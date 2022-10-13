@@ -378,9 +378,6 @@ button {
 /* F O O T E R */
 .footer {
     background-color: var(--background-grey-color);
-}
-
-.footer-padding {
     padding-top: 60px;
     padding-bottom: 60px;
 }
